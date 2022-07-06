@@ -11,6 +11,7 @@ https://www.aware-online.com/en/osint-tools/ | | Web App
 https://osint.sh/ | | Web App
 https://www.maltego.com/downloads/ | | Windows/Linux/Mac App
 https://github.com/lanmaster53/recon-ng | | CLI
+https://github.com/rly0nheart/octosuite | | CLI
 
 <br><br><br>
 
